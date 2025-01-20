@@ -1,3 +1,4 @@
+7cb74896a1b2bd1739039f5896a177b8dd285c4f
 # Telegram iOS Source Code Compilation Guide
 
 We welcome all developers to use our API and source code to create applications on our platform.
